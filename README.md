@@ -8,13 +8,13 @@
 
 - [О проекте](#о-проекте)
   - [Темы проекта](#темы-проекта)
-    - [**Git**](#git)
+    - [  **Git**](#-git)
 
 ---
 
 ---
 
-### <a id="git"  style=" display: flex; align-items: center;"><img  style="width: 50px; margin-right: 30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"/>**Git**</a>
+### <a id="git"><img  width="30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"/>&ensp; **Git**</a>
 
 Некоторые команды и флаги для взаимодействия с Gi
 
