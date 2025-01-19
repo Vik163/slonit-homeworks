@@ -14,7 +14,7 @@
 
 ---
 
-### <a id="git"><img  width="30px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"/>&ensp; **Git**</a>
+### <a id="git"><img  width="35px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git"/>&ensp; **Git**</a>
 
 Некоторые команды и флаги для взаимодействия с Gi
 
