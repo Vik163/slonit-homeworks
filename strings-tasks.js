@@ -11,9 +11,9 @@ const result = changeFirstLetter(str);
 console.log("result:", result);
 
 // На выходе возвращает, по необходимости укороченную строку, в конце которой стоит троеточие.
-function trimLongString(str, long) {
+function trimLongString(str, length) {
   // массив из слов укороченной строки
-  const trimStrArr = str.slice(0, long).split(" ");
+  const trimStrArr = str.slice(0, length).split(" ");
 
   return (
     str
