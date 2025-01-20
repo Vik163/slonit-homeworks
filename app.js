@@ -41,7 +41,6 @@ const checkNumbers = () => {
   // получаю рандомное число
   let randomNumber = Math.round(Math.random() * 100);
   console.log(`Компьютер 1 загадал число: ${randomNumber}`);
-  let result = null;
   let isFound = false; // ключ завершения
   getNumberSecondComp(null); // первая попытка
 
