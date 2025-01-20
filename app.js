@@ -41,11 +41,10 @@ const checkNumbers = () => {
   // получаю рандомное число
   let randomNumber = Math.round(Math.random() * 100);
   console.log(`Компьютер 1 загадал число: ${randomNumber}`);
-  let isFound = false; // ключ завершения
   getNumberSecondComp(null); // первая попытка
 
   // цикл пока ключ равен false
-  while (!isFound) {
+  while (true) {
     if (newNum > randomNumber) {
       sendAnswerFirstComp("Больше");
     } else if (newNum < randomNumber) {
@@ -53,6 +52,7 @@ const checkNumbers = () => {
     } else {
       isFound = true;
       console.log("Компьютер 1: Угадал!");
+      break;
     }
   }
 };
